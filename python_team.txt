@@ -6,3 +6,5 @@ members: Jack
 members: Juli
 members : Yang
 members: Chae
+
+friend : Pochaco
