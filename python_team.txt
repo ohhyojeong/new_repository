@@ -2,4 +2,6 @@ team: Python
 
 manager: Lee
 
+members: Jack
 members: Juli
+members : Yang
