@@ -1,6 +1,6 @@
 team: Python
 
-manager: Lee
+manager: Melody
 
 members: Jack
 members: Juli
