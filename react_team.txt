@@ -2,4 +2,4 @@ team: React
 
 manager: Min
 
-members: Bob
+members: June
